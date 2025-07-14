@@ -102,7 +102,7 @@ classDiagram
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/PatrickyLucas/desafio-dio-poo.git
    ```
 
 2. Importe o projeto para sua IDE Java (IntelliJ, Eclipse, VS Code com extensão Java).
