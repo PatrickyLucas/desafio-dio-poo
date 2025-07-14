@@ -1,4 +1,3 @@
-```markdown
 # 💻 Desafio DIO: Abstraindo um Bootcamp Usando Orientação a Objetos em Java
 
 Este projeto faz parte do **Desafio de Projeto da DIO (Digital Innovation One)** e tem como objetivo aplicar os principais pilares da **Programação Orientada a Objetos (POO)** na linguagem **Java**, por meio da abstração do domínio de um Bootcamp educacional.
