@@ -124,5 +124,5 @@ Sinta-se livre para abrir *issues*, propor melhorias ou dar um ⭐ no projeto.
 
 ## 📝 Licença
 
-Este projeto está sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais informações.
+Este projeto está sob a licença MIT.
 ```
